@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jJEw+9ynS+nKxYBTbn+/3jlSoK6VKPDVi1LZUrsLvnsGLySU3pLmy1txDTVyZTJaNk7xJ6LnmoHClV2d5HMFGA==",
+  "dgSpecHash": "6tQQZFnnhBGrHZWmDqUhJrEFvt+WfwuSbaY08Id4CRHeu28dadpjXKq89hWGZraaWQcHAkE20HGUuRMBMCw52g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\fic\\Desktop\\Campeonato_App\\Campeonato_App\\Campeonato_App.csproj",
+  "projectFilePath": "C:\\Users\\fic\\Desktop\\Campeonato-xamarim\\Campeonato_App\\Campeonato_App\\Campeonato_App.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fic\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\fic\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

@@ -609,11 +609,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fic\\Desktop\\Campeonato_App\\Campeonato_App\\Campeonato_App.csproj",
+      "projectUniqueName": "C:\\Users\\fic\\Desktop\\Campeonato-xamarim\\Campeonato_App\\Campeonato_App\\Campeonato_App.csproj",
       "projectName": "Campeonato_App",
-      "projectPath": "C:\\Users\\fic\\Desktop\\Campeonato_App\\Campeonato_App\\Campeonato_App.csproj",
+      "projectPath": "C:\\Users\\fic\\Desktop\\Campeonato-xamarim\\Campeonato_App\\Campeonato_App\\Campeonato_App.csproj",
       "packagesPath": "C:\\Users\\fic\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fic\\Desktop\\Campeonato_App\\Campeonato_App\\obj\\",
+      "outputPath": "C:\\Users\\fic\\Desktop\\Campeonato-xamarim\\Campeonato_App\\Campeonato_App\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

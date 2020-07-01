@@ -24,10 +24,10 @@
                     HorizontalOptions="CenterAndExpand"/>
 
             <Image Source="baseline_person_black_48dp.png" Grid.Column="1" Grid.Row="1"/>
-            <Entry Placeholder="Email" x:Name="Digite um usuario" BackgroundColor="#00BFFF" TextColor="Black" Grid.Column="0" Grid.Row="1" Grid.ColumnSpan="5"/>
+            <Entry Placeholder="Email" BackgroundColor="#00BFFF" TextColor="Black" Grid.Column="0" Grid.Row="1" Grid.ColumnSpan="5"/>
 
             <Image Source="baseline_lock_black_48dp.png" Grid.Column="1" Grid.Row="1"/>
-            <Entry Placeholder="Password" x:Name="Digite a senha"  BackgroundColor="#00BFFF" TextColor="Black" Grid.Column="0" Grid.Row="1" Grid.ColumnSpan="5"/>
+            <Entry Placeholder="Password" BackgroundColor="#00BFFF" TextColor="Black" Grid.Column="0" Grid.Row="1" Grid.ColumnSpan="5"/>
 
             <Button Text="Login" BackgroundColor="Green" VerticalOptions="CenterAndExpand" HorizontalOptions="Center" />
 

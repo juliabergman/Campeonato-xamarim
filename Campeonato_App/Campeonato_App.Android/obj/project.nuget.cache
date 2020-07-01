@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XH+R4DjH+4t+tcesXZHkc937nea/pVIXGtQJ/gIgICILjZe2C7klfW66kPUWicz2DFWQlD2OrQFRowgEQQUxyQ==",
+  "dgSpecHash": "0VemiEXp9sSwYA69bFnn+zH3wddnayPRThKF5LTMtVdNNlH2lbzFLLP3IZI8Z1tjKJK/hbKWXdrtT6j3ay7pYQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\fic\\Desktop\\Campeonato_App\\Campeonato_App.Android\\Campeonato_App.Android.csproj",
+  "projectFilePath": "C:\\Users\\fic\\Desktop\\Campeonato-xamarim\\Campeonato_App\\Campeonato_App.Android\\Campeonato_App.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fic\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.arch.core.common\\1.1.1.3\\xamarin.android.arch.core.common.1.1.1.3.nupkg.sha512",

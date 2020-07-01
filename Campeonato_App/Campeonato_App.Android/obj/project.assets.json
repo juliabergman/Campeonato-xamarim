@@ -1975,11 +1975,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fic\\Desktop\\Campeonato_App\\Campeonato_App.Android\\Campeonato_App.Android.csproj",
+      "projectUniqueName": "C:\\Users\\fic\\Desktop\\Campeonato-xamarim\\Campeonato_App\\Campeonato_App.Android\\Campeonato_App.Android.csproj",
       "projectName": "Campeonato_App.Android",
-      "projectPath": "C:\\Users\\fic\\Desktop\\Campeonato_App\\Campeonato_App.Android\\Campeonato_App.Android.csproj",
+      "projectPath": "C:\\Users\\fic\\Desktop\\Campeonato-xamarim\\Campeonato_App\\Campeonato_App.Android\\Campeonato_App.Android.csproj",
       "packagesPath": "C:\\Users\\fic\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fic\\Desktop\\Campeonato_App\\Campeonato_App.Android\\obj\\",
+      "outputPath": "C:\\Users\\fic\\Desktop\\Campeonato-xamarim\\Campeonato_App\\Campeonato_App.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -2000,8 +2000,8 @@
       "frameworks": {
         "monoandroid90": {
           "projectReferences": {
-            "C:\\Users\\fic\\Desktop\\Campeonato_App\\Campeonato_App\\Campeonato_App.csproj": {
-              "projectPath": "C:\\Users\\fic\\Desktop\\Campeonato_App\\Campeonato_App\\Campeonato_App.csproj"
+            "C:\\Users\\fic\\Desktop\\Campeonato-xamarim\\Campeonato_App\\Campeonato_App\\Campeonato_App.csproj": {
+              "projectPath": "C:\\Users\\fic\\Desktop\\Campeonato-xamarim\\Campeonato_App\\Campeonato_App\\Campeonato_App.csproj"
             }
           }
         }
