@@ -539,3 +539,4 @@ C:\Users\paulo\source\repos\Campeonato\Campeonato.Android\obj\Debug\90\res\drawa
 C:\Users\paulo\source\repos\Campeonato\Campeonato.Android\obj\Debug\90\res\drawable\holanda.jpg
 C:\Users\paulo\source\repos\Campeonato\Campeonato.Android\obj\Debug\90\android\src\crc64cdebe6adc6fbd30a\SplashActivity.java
 C:\Users\paulo\source\repos\Campeonato\Campeonato.Android\obj\Debug\90\res\values\estilo.xml
+C:\Users\paulo\source\repos\Campeonato\Campeonato.Android\obj\Debug\90\res\drawable\splashscreen.png

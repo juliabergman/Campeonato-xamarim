@@ -2,13 +2,8 @@
 <resources>
   <style name="Splash.Theme" parent="android:Theme">
     <item name="android:windowBackground">
-      @drawable/app_logo
-    </item>
-
-    <item name="android:windowBackground">
-      @drawable/fifa_logo
+      @drawable/SplashScreen
     </item>
     <item name="android:windowNoTitle">true</item>
-    
   </style>
 </resources>

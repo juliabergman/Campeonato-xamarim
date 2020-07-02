@@ -7,38 +7,27 @@
              x:Class="Campeonato.Views.LoginView">
     <ContentPage.Content>
         <StackLayout>
-
             <Image
-                Source="app_logo.png"
-                HeightRequest="150"
-                VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand"/>
-            
-            <Grid VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand" ColumnSpacing="0">
-                <Grid.RowDefinitions>
-                    <RowDefinition Height="45"/>
-                    <RowDefinition Height="45"/>
-                </Grid.RowDefinitions>
+            Source="app_logo.png"
+            HeightRequest="150"
+            VerticalOptions="CenterAndExpand" 
+            HorizontalOptions="CenterAndExpand"
+            Margin="45 0 25 0"/>
 
-                <Grid.ColumnDefinitions>
-                    <ColumnDefinition Width="Auto"/>
-                    <ColumnDefinition Width="Auto"/>
-                </Grid.ColumnDefinitions>
+            <StackLayout Orientation="Horizontal">
+                <Image Source="baseline_person_black_48dp.png" HorizontalOptions="Start" Margin="0 0 0 50" HeightRequest="40"/>
+                <Entry Placeholder="Email" BackgroundColor="Transparent" TextColor="Black" Margin="0 60 0 0" HorizontalOptions="FillAndExpand"/>
+            </StackLayout>
 
-                <Image Source="baseline_person_black_48dp.png" Grid.Column="1" Grid.Row="0" Grid.ColumnSpan="2"/>
-
-                <Entry Placeholder="Email" BackgroundColor="Transparent" TextColor="Black"
-                Grid.Column="3" Grid.Row="0" Grid.ColumnSpan="2"/>
-
-                <Image Source="baseline_lock_black_48dp.png"
-                Grid.Column="1" Grid.Row="1" Grid.ColumnSpan="2"/>
+            <StackLayout Orientation="Horizontal">
+                <Image Source="baseline_lock_black_48dp.png" HorizontalOptions="Start" Margin="0 0 0 50" HeightRequest="40"/>
+                <Entry Placeholder="Password" BackgroundColor="Transparent" TextColor="Black" Margin="0 60 0 0" HorizontalOptions="FillAndExpand"/>
+            </StackLayout>
                 
-                <Entry Placeholder="Password" BackgroundColor="Transparent" TextColor="Black" Grid.Column="3" Grid.Row="1" Grid.ColumnSpan="2"/>
-            </Grid>
-            
-            <Button Text="Login" BackgroundColor="Green" VerticalOptions="CenterAndExpand" HorizontalOptions="Center" />
-            
-            <Label Text="Cadastra-se" VerticalOptions="EndAndExpand" HorizontalOptions="Center"/>
+                
+            <Button Text="Login" BackgroundColor="Green" TextColor="White" VerticalOptions="CenterAndExpand" HorizontalOptions="Center" Margin="40 0" />
+
+            <Button Text="Cadastra-se" VerticalOptions="EndAndExpand" BackgroundColor="Transparent"  HorizontalOptions="FillAndExpand" Margin="0 0 70 0" FontSize="16" TextColor="Blue"/>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

@@ -4636,16 +4636,17 @@ public final class R {
     public static final int notify_panel_notification_icon_bg=0x7f0700a8;
     public static final int red_card=0x7f0700a9;
     public static final int russia_bandeira=0x7f0700aa;
-    public static final int suica=0x7f0700ab;
-    public static final int suica_bandeira=0x7f0700ac;
-    public static final int tooltip_frame_dark=0x7f0700ad;
-    public static final int tooltip_frame_light=0x7f0700ae;
-    public static final int trophy=0x7f0700af;
-    public static final int uruguai=0x7f0700b0;
-    public static final int uruguai_bandeira=0x7f0700b1;
-    public static final int whistle=0x7f0700b2;
-    public static final int wstowers=0x7f0700b3;
-    public static final int yellow_card=0x7f0700b4;
+    public static final int splashscreen=0x7f0700ab;
+    public static final int suica=0x7f0700ac;
+    public static final int suica_bandeira=0x7f0700ad;
+    public static final int tooltip_frame_dark=0x7f0700ae;
+    public static final int tooltip_frame_light=0x7f0700af;
+    public static final int trophy=0x7f0700b0;
+    public static final int uruguai=0x7f0700b1;
+    public static final int uruguai_bandeira=0x7f0700b2;
+    public static final int whistle=0x7f0700b3;
+    public static final int wstowers=0x7f0700b4;
+    public static final int yellow_card=0x7f0700b5;
   }
   public static final class id {
     public static final int ALT=0x7f080000;

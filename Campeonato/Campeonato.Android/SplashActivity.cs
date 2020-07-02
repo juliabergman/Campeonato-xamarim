@@ -19,7 +19,6 @@ namespace Campeonato.Droid
         {
             base.OnCreate(savedInstanceState);
 
-            // Create your application here
             Thread.Sleep(2000);
             StartActivity(typeof(MainActivity));
         }
