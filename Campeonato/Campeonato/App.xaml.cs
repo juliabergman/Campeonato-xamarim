@@ -11,7 +11,7 @@ namespace Campeonato
         {
             InitializeComponent();
 
-            MainPage = new LoginView();
+            MainPage = new PrincipalView();
         }
 
         protected override void OnStart()

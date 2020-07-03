@@ -13,3 +13,4 @@ C:\Users\paulo\source\repos\Campeonato\Campeonato\obj\Debug\netstandard2.0\XamlC
 C:\Users\paulo\source\repos\Campeonato\Campeonato\obj\Debug\netstandard2.0\Campeonato.dll
 C:\Users\paulo\source\repos\Campeonato\Campeonato\obj\Debug\netstandard2.0\ref\Campeonato.dll
 C:\Users\paulo\source\repos\Campeonato\Campeonato\obj\Debug\netstandard2.0\Campeonato.pdb
+C:\Users\paulo\source\repos\Campeonato\Campeonato\obj\Debug\netstandard2.0\Views\PrincipalView.xaml.g.cs

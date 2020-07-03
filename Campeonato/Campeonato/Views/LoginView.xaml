@@ -12,22 +12,21 @@
             HeightRequest="150"
             VerticalOptions="CenterAndExpand" 
             HorizontalOptions="CenterAndExpand"
-            Margin="45 0 25 0"/>
+            />
 
             <StackLayout Orientation="Horizontal">
-                <Image Source="baseline_person_black_48dp.png" HorizontalOptions="Start" Margin="0 0 0 50" HeightRequest="40"/>
-                <Entry Placeholder="Email" BackgroundColor="Transparent" TextColor="Black" Margin="0 60 0 0" HorizontalOptions="FillAndExpand"/>
+                <Image Source="baseline_person_black_48dp.png" HorizontalOptions="Start"  HeightRequest="40"/>
+                <Entry Placeholder="Email" BackgroundColor="Transparent" TextColor="Black" HorizontalOptions="FillAndExpand"/>
             </StackLayout>
 
             <StackLayout Orientation="Horizontal">
-                <Image Source="baseline_lock_black_48dp.png" HorizontalOptions="Start" Margin="0 0 0 50" HeightRequest="40"/>
-                <Entry Placeholder="Password" BackgroundColor="Transparent" TextColor="Black" Margin="0 60 0 0" HorizontalOptions="FillAndExpand"/>
+                <Image Source="baseline_lock_black_48dp.png" HorizontalOptions="Start"  HeightRequest="40"/>
+                <Entry Placeholder="Password" BackgroundColor="Transparent" TextColor="Black"  HorizontalOptions="FillAndExpand"/>
             </StackLayout>
                 
-                
-            <Button Text="Login" BackgroundColor="Green" TextColor="White" VerticalOptions="CenterAndExpand" HorizontalOptions="Center" Margin="40 0" />
+            <Button Text="Login" BackgroundColor="Green" TextColor="White" VerticalOptions="CenterAndExpand" HorizontalOptions="Center"/>
 
-            <Button Text="Cadastra-se" VerticalOptions="EndAndExpand" BackgroundColor="Transparent"  HorizontalOptions="FillAndExpand" Margin="0 0 70 0" FontSize="16" TextColor="Blue"/>
+            <Button Text="Cadastra-se" VerticalOptions="EndAndExpand" BackgroundColor="Transparent"  HorizontalOptions="FillAndExpand"  FontSize="16" TextColor="Blue"/>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>
