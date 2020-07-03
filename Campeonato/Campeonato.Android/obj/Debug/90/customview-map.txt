@@ -27,7 +27,6 @@ foreground;obj\Debug\90\res\mipmap-anydpi-v26\icon.xml
 foreground;obj\Debug\90\res\mipmap-anydpi-v26\icon_round.xml
 FrameLayout;C:\Users\paulo\source\repos\Campeonato\Campeonato.Android\obj\Debug\90\lp\39\jl\res\layout\bottomtablayout.xml
 item;C:\Users\paulo\source\repos\Campeonato\Campeonato.Android\obj\Debug\90\lp\39\jl\res\values\styles.xml
-item;obj\Debug\90\res\values\colors.xml
 item;obj\Debug\90\res\values\estilo.xml
 item;obj\Debug\90\res\values\styles.xml
 LinearLayout;C:\Users\paulo\source\repos\Campeonato\Campeonato.Android\obj\Debug\90\lp\39\jl\res\layout\bottomtablayout.xml
@@ -41,7 +40,6 @@ set;C:\Users\paulo\source\repos\Campeonato\Campeonato.Android\obj\Debug\90\lp\39
 set;C:\Users\paulo\source\repos\Campeonato\Campeonato.Android\obj\Debug\90\lp\39\jl\res\anim\exittoleft.xml
 set;C:\Users\paulo\source\repos\Campeonato\Campeonato.Android\obj\Debug\90\lp\39\jl\res\anim\exittoright.xml
 style;C:\Users\paulo\source\repos\Campeonato\Campeonato.Android\obj\Debug\90\lp\39\jl\res\values\styles.xml
-style;obj\Debug\90\res\values\colors.xml
 style;obj\Debug\90\res\values\estilo.xml
 style;obj\Debug\90\res\values\styles.xml
 translate;C:\Users\paulo\source\repos\Campeonato\Campeonato.Android\obj\Debug\90\lp\39\jl\res\anim\enterfromleft.xml

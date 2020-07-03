@@ -540,3 +540,12 @@ C:\Users\paulo\source\repos\Campeonato\Campeonato.Android\obj\Debug\90\res\drawa
 C:\Users\paulo\source\repos\Campeonato\Campeonato.Android\obj\Debug\90\android\src\crc64cdebe6adc6fbd30a\SplashActivity.java
 C:\Users\paulo\source\repos\Campeonato\Campeonato.Android\obj\Debug\90\res\values\estilo.xml
 C:\Users\paulo\source\repos\Campeonato\Campeonato.Android\obj\Debug\90\res\drawable\splashscreen.png
+C:\Users\paulo\OneDrive\Área de Trabalho\Campeonato-xamarim\Campeonato\Campeonato.Android\obj\Debug\90\MonoAndroid,Version=v9.0.AssemblyAttributes.cs
+C:\Users\paulo\OneDrive\Área de Trabalho\Campeonato-xamarim\Campeonato\Campeonato.Android\obj\Debug\90\build.props
+C:\Users\paulo\OneDrive\Área de Trabalho\Campeonato-xamarim\Campeonato\Campeonato.Android\obj\Debug\90\adb.props
+C:\Users\paulo\OneDrive\Área de Trabalho\Campeonato-xamarim\Campeonato\Campeonato.Android\obj\Debug\90\Campeonato.Android.csprojAssemblyReference.cache
+C:\Users\paulo\OneDrive\Área de Trabalho\Campeonato-xamarim\Campeonato\Campeonato.Android\obj\Debug\90\_VerifyXamarinAndroidSupportVersions.stamp
+C:\Users\paulo\OneDrive\Área de Trabalho\Campeonato-xamarim\Campeonato\Campeonato.Android\obj\Debug\90\stamp\_BuildLibraryImportsCache.stamp
+C:\Users\paulo\OneDrive\Área de Trabalho\Campeonato-xamarim\Campeonato\Campeonato.Android\obj\Debug\90\res.flag
+C:\Users\paulo\OneDrive\Área de Trabalho\Campeonato-xamarim\Campeonato\Campeonato.Android\obj\Debug\90\Campeonato.Android.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\Campeonato-xamarim\Campeonato\Campeonato.Android\obj\Debug\90\Campeonato.Android.pdb
